@@ -1,13 +1,6 @@
 require(chatgpt)
 require(data.table)
 
-#require(gptchatteR)
-#chatter.auth("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")
-#chatter.create(model = "text-davinci-003",
-#               temperature = 0.1,
-#               max_tokens = 4000)
-
-
 # Consider moving to openai pacakge openai::create_completion
 # See https://github.com/isinaltinkaya/gptchatteR/blob/main/R/main.R for how this is used
 
