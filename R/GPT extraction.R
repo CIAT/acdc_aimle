@@ -13,7 +13,7 @@ require(data.table)
 
 #Set API key for ChatGPT
 #Replace "sk-XXXXXXXXXXXXXXXXX" with the API key you received
-Sys.setenv(OPENAI_API_KEY = "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")
+Sys.setenv(OPENAI_API_KEY = "sk-XXXXXXXXXXXXXXXXX")
 
 # Set gpt save directory
 save_dir<-"analysis"
